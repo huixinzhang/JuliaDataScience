@@ -37,6 +37,6 @@
   ]
 
   online_url = "https://cn.julialang.org"
-  online_url_prefix = "JuliaDataScience"
+  online_url_prefix = "/JuliaDataScience"
 
   output_filename = "juliadatascience"
